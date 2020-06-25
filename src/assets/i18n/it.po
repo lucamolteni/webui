@@ -8576,67 +8576,67 @@ msgid ""
 msgstr ""
 
 msgid "NAA"
-msgstr ""
+msgstr "NAA"
 
 msgid "NAT"
-msgstr ""
+msgstr "NAT"
 
 msgid "NAT Autoconfigure IPv4"
-msgstr ""
+msgstr "NAT Autoconfigurazione IPv4"
 
 msgid "NAT Interface"
-msgstr ""
+msgstr "Interfaccia NAT"
 
 msgid "NAT Port Forwarding"
-msgstr ""
+msgstr "NAT Port Forwarding "
 
 msgid "NFS"
-msgstr ""
+msgstr "NFS"
 
 msgid "NFSv3 ownership model for NFSv4"
-msgstr ""
+msgstr "NFSv3 ownership model per NFSv4"
 
 msgid "NFSv4"
-msgstr ""
+msgstr "NFSv4"
 
 msgid "NIC"
-msgstr ""
+msgstr "NIC"
 
 msgid "NIS"
-msgstr ""
+msgstr "NIS"
 
 msgid "NIS Domain"
-msgstr ""
+msgstr "Dominio NIS"
 
 msgid "NIS Servers"
-msgstr ""
+msgstr "Server NIS"
 
 msgid "NO"
-msgstr ""
+msgstr "NO"
 
 msgid "NOT RUN SINCE LAST BOOT"
-msgstr ""
+msgstr "NON ESEGUITA DALL'ULTIMO AVVIO"
 
 msgid "NSS"
-msgstr ""
+msgstr "NSS"
 
 msgid "NTLMv1 Auth"
-msgstr ""
+msgstr "NTLMv1 Auth"
 
 msgid "NTP Server Settings"
-msgstr ""
+msgstr "Settings Server NTP"
 
 msgid "NTP Servers"
-msgstr ""
+msgstr "Server NTP"
 
 msgid "Name"
-msgstr ""
+msgstr "Nome"
 
 msgid "Name Jail and Choose FreeBSD Release"
-msgstr ""
+msgstr "Nome della Jail a release FreeBSD scelta"
 
 msgid "Name and Method"
-msgstr ""
+msgstr "Nome e metodo"
 
 msgid "Name and Naming Schema cannot be provided at the same time."
 msgstr ""
@@ -8886,19 +8886,19 @@ msgid "Newer Intermediate, Child, and Clone"
 msgstr ""
 
 msgid "Next"
-msgstr ""
+msgstr "Prossimo"
 
 msgid "Next Run"
-msgstr ""
+msgstr "Prossima esecuzione"
 
 msgid "Nic to attach:"
-msgstr ""
+msgstr "Nic di cui fare l'attach"
 
 msgid "No"
-msgstr ""
+msgstr "No"
 
 msgid "No Communication Warning Time"
-msgstr ""
+msgstr "Nessun tempo per la comunicazione degli avvisi"
 
 msgid "No Encryption (less secure, but faster)"
 msgstr "Nessuna crittazione (meno sicuro, ma più veloce)"
@@ -9033,19 +9033,28 @@ msgid ""
 "href=\"https://www.freebsd.org/cgi/man.cgi?query=jail\" "
 "target=\"_blank\">JAIL(8)</a> man page explains the finer details."
 msgstr ""
+"Numero di jail figlie creabili permesse dalla jail o da altre jail "
+"sotto questa jail. Un limite di <i>0</i> impedisce alla jail di creare jail"
+"figlie. Le Jails gerarchiche sono spiegate nella <a "
+"href=\"https://www.freebsd.org/cgi/man.cgi?query=jail\" "
+"target=\"_blank\">JAIL(8)</a> man page."
 
 msgid "Number of days to renew certificate before expiring."
-msgstr ""
+msgstr "Numero di giorni per rinnovare il certificato prima della scadenza."
 
 msgid ""
 "Number of objects that can be owned by each of the selected groups.  "
 "Entering <code>0</code> (zero) allows unlimited objects."
 msgstr ""
+"Numero di oggetti che possono essere posseduti dai ognuno dei gruppi selezionati."
+"Con <code>0</code> (zero) si permette oggetti illimitati."
 
 msgid ""
 "Number of objects that can be owned by each of the selected users.  "
 "Entering <code>0</code> (zero) allows unlimited objects."
 msgstr ""
+"Numero di oggetti che possono essere posseduti da ognuno degli utenti selezionati."
+"Con <code>0</code> (zero) si permette oggetti illimitati."
 
 msgid ""
 "Number of password-based key derivation function 2 (PBKDF2) iterations to "
@@ -9054,6 +9063,11 @@ msgid ""
 "href=\"https://en.wikipedia.org/wiki/PBKDF2\" target=\"_blank\">PBKDF2</a> "
 "for more details."
 msgstr ""
+"Numero di iterazioni della funzione 2 (PBKDF2) di derivazione delle chiavi basate su password "
+"da usare per ridurre la vulnerabilità     agli attacchi brute-force. È richiesto di inserire un "
+"numero maggiore di <i>100000</i>. Vedi      <a "
+"href=\"https://en.wikipedia.org/wiki/PBKDF2\" target=\"_blank\">PBKDF2</a> "
+"per maggiori informazioni."
 
 msgid ""
 "Number of points for each hourly, daily,  weekly, monthly, or yearly graph "
@@ -9061,31 +9075,43 @@ msgid ""
 "Destroy</i> dialog to appear. Changes do not take  effect until the "
 "existing reporting database is destroyed."
 msgstr ""
+"Numero di punti per ogni grafico orario, giornaliero, settimanale, mensile o annuale "
+"(I valori ammessi sono 1-4096). Cambiare questo valore fa apparire la finestra"
+"<i>Conferma la distruzione RRD </i>. I cambiamenti non avvengono fino a che "
+"il database del reporting esistente non è cancellato."
 
 msgid "Number of queued SysV messages allowed for the jail."
-msgstr ""
+msgstr "Numero di messaggi SysV in coda permessi per questa jail."
 
 msgid "Number of retries for failed replications"
-msgstr ""
+msgstr "Numero di tentativi effettuati per ogni replica fallita"
 
 msgid ""
 "Number of seconds before a timeout. Increase this value if AD DNS queries "
 "time out."
 msgstr ""
+"Numero di secondi prima di un timeout . Aumenta questo valore se le query AD DNS "
+"vanno in time out."
 
 msgid ""
 "Number of seconds before timeout. If the AD service does not immediately "
 "start after connecting to the domain, increase this value."
 msgstr ""
+"Numero di secondi prima di un timeout. Se il servizio AD non parte immediatamente "
+"prima di connettersi al dominio, aumenta questo valore."
 
 msgid ""
 "Number of seconds to wait after a network failure  before triggering a "
 "failover. <i>0</i> means a failover occurs  immediately, or after two "
 "seconds when the system is using a link  aggregation."
 msgstr ""
+"Numero di secondi da aspettare dopo un errore di rete prima di scatenare il "
+"failover. <i>0</i> indica che il failover interviene instantaneamente, o dopo due "
+"secondi quando il sistema usa una link aggregation."
+
 
 msgid "Number of servers"
-msgstr ""
+msgstr "Numero di server"
 
 msgid ""
 "Number of simultaneous file transfers. Enter a number based on the "
@@ -9093,29 +9119,43 @@ msgid ""
 "href=\"https://rclone.org/docs/#transfers-n\" target=\"_blank\">rclone "
 "--transfers</a>."
 msgstr ""
+"Numero di trasferimenti di file simultanei. Inserisci un numero basato sulla "
+"banda disponibile e sulle performance del sistema di destinazione. Maggiori informazioni <a "
+"href=\"https://rclone.org/docs/#transfers-n\" target=\"_blank\">rclone "
+"--transfers</a>."
+
 
 msgid ""
 "Number of times the replication is attempted  before stopping and marking "
 "the task as failed."
 msgstr ""
+"Numero di tentativi per la replica prima che sia fermata e che il task sia segnalato"
+"come fallito."
 
 msgid ""
 "Number of virtual CPUs to allocate to the virtual machine. The maximum is "
 "16, or fewer if the host CPU limits the maximum. The VM operating system "
 "might also have operational or licensing restrictions on the number of CPUs."
 msgstr ""
+"Numero di CPU virtuali da allocare nella macchina virtuale. Il massimo è "
+"16, o meno se la CPU host ha un limite sul massimo. Il sitema operativo della VM "
+"può inoltre avere limiti operazionali o di licenza sul numero di CPU."
 
 msgid ""
 "Numeric start priority for the jail at boot time. Valid priorities are "
 "between 1 and 99. <b>Smaller</b> values are <b>higher</b> priority. At "
 "system shutdown the priority is reversed. <br> <b>Example:</b> <i>99</i>"
 msgstr ""
+"Priorità numerica per la jail al boot time. I valori ammessi sono "
+"compresi tra 1 and 99. I valori <b>minori</b> sono a priorità <b>più alta</b>. Allo "
+"spegnimento la priorità è invertita. <br> <b>Esempio:</b> <i>99</i>"
+
 
 msgid "Numeric value for the number of PTYs available to the jail."
-msgstr ""
+msgstr "Valore numerico per il numero di PTY disponibili alla jail."
 
 msgid "Numeric value to set the file descriptor table size."
-msgstr ""
+msgstr "Valore numero per inserire la dimensione della tabella del descrittore del file."
 
 msgid "OAuth Advanced Options"
 msgstr ""

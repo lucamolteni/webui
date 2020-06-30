@@ -8664,7 +8664,7 @@ msgstr
 "remoto."
 
 msgid "Name of NIS domain."
-msgstr "Name di questo dominio NIS"
+msgstr "Nome di questo dominio NIS"
 
 msgid ""
 "Name of the <a "
@@ -8680,7 +8680,7 @@ msgstr ""
 "dei webhook entranti."
 
 msgid "Name of the InfluxDB database."
-msgstr "Nome del database InfluxDB"
+msgstr "Nome del database InfluxDB."
 
 msgid "Name of the WebDAV site, service, or software being used."
 msgstr "Nome del sito, del servizio o del software WebDAV usato."
@@ -8693,7 +8693,7 @@ msgstr ""
 "essere un file esistente all'interno della pool o del dataset."
 
 msgid "Name of the new alert service."
-msgstr "Nome del nuovo servizio di avviso"
+msgstr "Nome del nuovo servizio di avviso."
 
 msgid ""
 "Name of the new cloned boot environment. Alphanumeric characters, dashes "

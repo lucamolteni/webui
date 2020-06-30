@@ -8639,16 +8639,16 @@ msgid "Name and Method"
 msgstr "Nome e metodo"
 
 msgid "Name and Naming Schema cannot be provided at the same time."
-msgstr ""
+msgstr "Nome e Naming Schema non possono essere forniti nello stesso tempo"
 
 msgid "Name and Options"
-msgstr ""
+msgstr "Nome e opzioni"
 
 msgid "Name and Provider"
-msgstr ""
+msgstr "Nome e provider"
 
 msgid "Name and Type"
-msgstr ""
+msgstr "Nome e tipo"
 
 msgid ""
 "Name and port of the server that reports the  external IP address. For "
@@ -8656,10 +8656,15 @@ msgid ""
 "href=\"https://help.dyn.com/remote-access-api/checkip-tool/\" "
 "target=\"_blank\">Dyn IP detection</a>.  to discover the remote socket IP "
 "address."
-msgstr ""
+msgstr
+"Nome e porta del server a cui mandare l'indirizzo IP. Per"
+"esempio, inserire <i>checkip.dyndns.org:80</i>  usa  <a "
+"href=\"https://help.dyn.com/remote-access-api/checkip-tool/\" "
+"target=\"_blank\">la detection dell'IP dinamico</a>.  per scoprire l'indirizzo del socket IP "
+"remoto."
 
 msgid "Name of NIS domain."
-msgstr ""
+msgstr "Name di questo dominio NIS"
 
 msgid ""
 "Name of the <a "
@@ -8668,144 +8673,161 @@ msgid ""
 "receive notifications. This overrides the default channel in the incoming "
 "webhook settings."
 msgstr ""
+"Nome del <a "
+"href=\"https://docs.mattermost.com/help/getting-started/organizing-"
+"conversations.html#managing-channels\" target=\"_blank\">canale</a> per "
+"ricevere le notifiche. Questo sovrascrive il canale di default nelle impostazioni "
+"dei webhook entranti."
 
 msgid "Name of the InfluxDB database."
-msgstr ""
+msgstr "Nome del database InfluxDB"
 
 msgid "Name of the WebDAV site, service, or software being used."
-msgstr ""
+msgstr "Nome del sito, del servizio o del software WebDAV usato."
 
 msgid ""
 "Name of the extent. If the <i>Extent size</i> is not <i>0</i>, it cannot be "
 "an existing file within the pool or dataset."
 msgstr ""
+"Nome dell'estensione. Se la <i>dimensione dell'estensione</i> non è <i>0</i>, non può "
+"essere un file esistente all'interno della pool o del dataset."
 
 msgid "Name of the new alert service."
-msgstr ""
+msgstr "Nome del nuovo servizio di avviso"
 
 msgid ""
 "Name of the new cloned boot environment. Alphanumeric characters, dashes "
 "(-), underscores (_),     and periods (.) are allowed."
 msgstr ""
+"Nome del nuovo ambiente di boot clonato. Caratteri alfanumerici, trattini "
+"(-), sottolineato (_),     e punti (.) sono permessi."
 
 msgid "Name of the new dataset created from the  cloned snapshot."
-msgstr ""
+msgstr "Nome del nuovo dataset creato dalla snapshot clonata."
 
 msgid "Name of the room."
-msgstr ""
+msgstr "Nome della stanza."
 
 msgid "Name of this SSH connection. SSH connection names  must be unique."
-msgstr ""
+msgstr "Nome della connessione SSH. I nomi delle connessioni SSH deve essere univoci."
 
 msgid "Name of this replication configuration."
-msgstr ""
+msgstr "Nome di questa configurazione della replica."
 
 msgid "Name or Naming Schema is required. Only one field can be used at a time."
-msgstr ""
+msgstr "Un nome o uno schema di nomenclatura è richiesto. Solo un campo può essere usato per volta."
 
 msgid "Name or Naming Schema must be provided."
-msgstr ""
+msgstr "Un nome o uno schema di nomenclatura è richiesto."
 
 msgid "Name servers not configured"
-msgstr ""
+msgstr "Il nome dei server non è configurato"
 
 msgid "Name that was created with the SMB share."
-msgstr ""
+msgstr "Nome che è stato creato con la share SMB."
 
 msgid "Nameserver 1"
-msgstr ""
+msgstr "Nomeserver 1"
 
 msgid "Nameserver 2"
-msgstr ""
+msgstr "Nomeserver 2"
 
 msgid "Nameserver 3"
-msgstr ""
+msgstr "Nomeserver 3"
 
 msgid "Nameservers"
-msgstr ""
+msgstr "Nomeserver"
 
 msgid "Naming Schema"
-msgstr ""
+msgstr "Schema di nomenclatura"
 
 msgid "Navigation"
-msgstr ""
+msgstr "Navigazione"
 
 msgid "NetBIOS"
-msgstr ""
+msgstr "NetBIOS"
 
 msgid "NetBIOS Alias"
-msgstr ""
+msgstr "Alias NetBIOS"
 
 msgid "NetBIOS Name"
-msgstr ""
+msgstr "Nome NetBIOS"
 
 msgid "NetBIOS alias"
-msgstr ""
+msgstr "Alias NetBIOS"
 
 msgid "NetBIOS-NS"
-msgstr ""
+msgstr "NETBIOS-NS"
 
 msgid "Netbios Name"
-msgstr ""
+msgstr "Nome Netbios"
 
 msgid ""
 "Netbios Name of this NAS. This name must differ from the <i>Workgroup</i> "
 "name and be no greater than 15 characters."
 msgstr ""
+"Nome Netbios di questo NAS. Questo nome deve essere diverso dal nome del <i>Workgroup</i> "
+"e non essere più grande di 15 caratteri."
 
 msgid "Netcat Active Side"
-msgstr ""
+msgstr "Netcat Active Side"
 
 msgid "Netcat Active Side Connect Address"
-msgstr ""
+msgstr "Indirizzo di connessione Netcat Active Side"
 
 msgid "Netcat Active Side Listen Address"
-msgstr ""
+msgstr "Indirizzo di ascolto Netcat Active Side""
 
 msgid "Netcat Active Side Max Port"
-msgstr ""
+msgstr "Porta Max Netcat Active Side"
 
 msgid "Netcat Active Side Min Port"
-msgstr ""
+msgstr "Porta Min Netcat Active Side"
 
 msgid "Netmask"
-msgstr ""
+msgstr "Netmask"
 
 msgid "Netwait IP List"
-msgstr ""
+msgstr "Lista Netwait IP"
 
 msgid "Network"
-msgstr ""
+msgstr "Rete"
 
 msgid ""
 "Network Address Translation (NAT). Transforms local network IP addresses "
 "into a single IP address. Set when the jail will share a single connection "
 "to the Internet with other systems on the network."
 msgstr ""
+"Network Address Translation (NAT). Transforms local network IP addresses "
+"into a single IP address. Set when the jail will share a single connection "
+"to the Internet with other systems on the network."
 
 msgid "Network Information Service (NIS)"
-msgstr ""
+msgstr "Servizio informazione di rete (NIS)"
 
 msgid "Network Interface"
-msgstr ""
+msgstr "Interfaccia di rete"
 
 msgid "Network Properties"
-msgstr ""
+msgstr "Proprietà di rete"
 
 msgid "Network Reports"
-msgstr ""
+msgstr "Report di rete"
 
 msgid "Network Summary"
-msgstr ""
+msgstr "Sommario della rete"
 
 msgid "Network Timeout Before Initiating Failover"
-msgstr ""
+msgstr "Timeout di rete prima dell'inizio del failover"
 
 msgid ""
 "Network addresses allowed to use this initiator. Leave blank to allow all   "
 "   networks or list network addresses with a CIDR mask. Separate entries by "
 "pressing      <code>Enter</code>."
 msgstr ""
+"Indirizzi di rete che possono usare questo initiatior. Lascia vuoto per permettere a    "
+"   tutti gli indirizzi o le liste con una CIDR mask. Separa i valori "
+"premendo      <code>Enter</code>."
 
 msgid ""
 "Network addresses allowed use this initiator. Each address can include an "
@@ -8814,9 +8836,14 @@ msgid ""
 "target=\"_blank\">CIDR</a> netmask. Click <i>+</i> to add the network "
 "address to the list. Example: <i>192.168.2.0/24</i>."
 msgstr ""
+"Indirizzi di rete che possono usare questo initiatior. Ogni indirizzo può includere una "
+" <a "
+"href=\"https://en.wikipedia.org/wiki/Classless_Inter-Domain_Routing\" "
+"target=\"_blank\">CIDR</a> netmask opzionale. Premi <i>+</i> per aggiungere "
+"L'indirizzo di rete alla lista. Esempio: <i>192.168.2.0/24</i>."
 
 msgid "Network changes applied successfully."
-msgstr ""
+msgstr "I cambiamenti di rete sono stati applicati con successo."
 
 msgid ""
 "Network community string.  The community string acts like a user ID or "
@@ -8826,64 +8853,77 @@ msgid ""
 "snmp-community-strings/\"  target=\"_blank\">What is an SNMP Community "
 "String?</a>."
 msgstr ""
+"Community String di rete.  Una Community String di rete può servire da "
+"ID utente o password. Un utente con una Community String corretta ha accesso alle informazioni "
+"di rete. Il default è <i>pubblico</i>. Per più informazioni, visita  <a "
+"href=\"https://community.helpsystems.com/knowledge-base/intermapper/snmp/"
+"snmp-community-strings/\"  target=\"_blank\">Cos'è una SNMP Community "
+"String?</a>."
 
 msgid "Network connectivity will be interrupted. "
-msgstr ""
+msgstr "La connessione di rete sarà interrotta. "
 
 msgid "Network connectivity will be interrupted. Proceed?"
-msgstr ""
+msgstr "La connessione di rete sarà interrotta. Procedere?"
 
 msgid "Network control (highest)"
-msgstr ""
+msgstr "Controllo della rete (massimo)"
 
 msgid "Network interface changes have been made permanent."
-msgstr ""
+msgstr "I cambiamenti all'interfaccia di rete sono state applicate definitivamente."
 
 msgid ""
 "Network interface changes have been temporarily applied for testing. Keep "
 "changes permanently? Changes are automatically reverted after the testing "
 "delay if they are not permanently applied."
 msgstr ""
+"I cambiamenti all'interfaccia di rete sono stati applicati temporaneamente per un test. Tenere "
+"le modifiche in modo definitivo? Le modifiche sono automaticamente ripristinate dopo il test "
+"se non sono applicate in modo definitivo."
 
 msgid ""
 "Network interface settings have been temporarily changed for testing. The "
 "settings will revert to the previous configuration after"
 msgstr ""
+"Le impostazioni dell'interfaccia di rete sono state temporaneamente cambiate per un test. Le "
+"impostazioni torneranno alla configurazione precedente successivamente"
 
 msgid "Network interfaces to include in the bridge."
-msgstr ""
+msgstr "Interfacce di rete da includere nel bridge"
 
 msgid "Networks"
-msgstr ""
+msgstr "Reti"
 
 msgid "Never"
-msgstr ""
+msgstr "Mai"
 
 msgid "Never Delete"
-msgstr ""
+msgstr "Non cancellare mai"
 
 msgid "New Disk"
-msgstr ""
+msgstr "Nuovo disco"
 
 msgid "New Password"
-msgstr ""
+msgstr "Nuova password"
 
 msgid "New Primary Group"
-msgstr ""
+msgstr "Nuovo gruppo primario"
 
 msgid "New Static Key Settings"
-msgstr ""
+msgstr "Nuovi setting di chiave statica"
 
 msgid ""
 "New users are not given <b>su</b> permissions if <i>wheel</i> is their "
 "primary group."
 msgstr ""
+"I nuovi utenti non hanno i permessi <b>su</b> se <i>wheel</i> è il loro "
+"gruppo primario."
 
 msgid "Newer Clone"
-msgstr ""
+msgstr "Clone più recente"
 
 msgid "Newer Intermediate, Child, and Clone"
-msgstr ""
+msgstr "Nuovo intermedio, figlio e clone."
 
 msgid "Next"
 msgstr "Prossimo"
@@ -8957,10 +8997,10 @@ msgid "No, continue with import"
 msgstr "No, continua con l’importazione."
 
 msgid "Nobind"
-msgstr ""
+msgstr "Nobind"
 
 msgid "Nodes CARP states do not agree."
-msgstr ""
+msgstr "Gli stati dei nodi CARP non sono coerenti."
 
 msgid "None"
 msgstr "Nessuno"
@@ -8988,7 +9028,7 @@ msgid "Notes about this disk."
 msgstr "Note su questo disco."
 
 msgid "Notes about this extent."
-msgstr ""
+msgstr "Note su questa estensione."
 
 msgid "Notes or identifiers about the theme."
 msgstr "Note o identificatori sul tema."
@@ -8997,7 +9037,7 @@ msgid "Notice"
 msgstr "Nota"
 
 msgid "Nov"
-msgstr ""
+msgstr "Nov"
 
 msgid "Number of CPUs"
 msgstr "Numero di CPU"

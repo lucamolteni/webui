@@ -8727,16 +8727,16 @@ msgid "Name that was created with the SMB share."
 msgstr "Nome che è stato creato con la share SMB."
 
 msgid "Nameserver 1"
-msgstr "Nomeserver 1"
+msgstr "Nameserver 1"
 
 msgid "Nameserver 2"
-msgstr "Nomeserver 2"
+msgstr "Nameserver 2"
 
 msgid "Nameserver 3"
-msgstr "Nomeserver 3"
+msgstr "Nameserver 3"
 
 msgid "Nameservers"
-msgstr "Nomeserver"
+msgstr "Nameserver"
 
 msgid "Naming Schema"
 msgstr "Schema di nomenclatura"

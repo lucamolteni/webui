@@ -8826,7 +8826,7 @@ msgid ""
 "pressing      <code>Enter</code>."
 msgstr ""
 "Indirizzi di rete che possono usare questo initiatior. Lascia vuoto per permettere a    "
-"   tutti gli indirizzi o le liste con una CIDR mask. Separa i valori "
+"   tutti gli indirizzi o elenca gli indirizzi di rete con maschera CIDR. Separa i valori "
 "premendo      <code>Enter</code>."
 
 msgid ""
